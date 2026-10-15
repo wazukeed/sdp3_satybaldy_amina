@@ -72,3 +72,4 @@ The UML diagram shows the Notification abstraction, refined notification types, 
 
 
 ![UML Class Diagram](diagram.png)
+
